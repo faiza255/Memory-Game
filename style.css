@@ -1,0 +1,18 @@
+body{
+  background-color: #FEFDFF;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  font-family: sans-serif;
+}
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    width: 400px;
+    height: 300px;
+  }
+
+  #msg{
+    font-size: 2rem;
+    
+  }
